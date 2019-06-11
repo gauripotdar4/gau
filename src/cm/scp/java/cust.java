@@ -6,6 +6,10 @@ class Employee{
 	int empAge;
 	String empAddress;
 	
+	
+	
+	
+	
 	static{
 			System.out.println("inside static block of emp");
 	}
